@@ -1,0 +1,19 @@
+/BadEntryException.java/1.1/Sat Oct  3 16:56:05 2020//
+/ImportFileException.java/1.1/Sat Oct  3 16:56:05 2020//
+/MissingFileAssociationException.java/1.1/Sat Oct  3 16:56:05 2020//
+/UnavailableFileException.java/1.1/Sat Oct  3 16:56:05 2020//
+/NoSuchDateException.java/1.2/Sun Nov  8 12:17:49 2020//
+/NoSuchSupplierException.java/1.1/Fri Dec  4 17:33:56 2020//
+/DisabledSupplierException.java/1.2/Fri Dec  4 09:55:36 2020//
+/IncorrectSupplierException.java/1.2/Fri Dec  4 09:55:51 2020//
+/InsufficientStockException.java/1.2/Fri Dec  4 09:56:42 2020//
+/NoSuchClientKeyException.java/1.3/Fri Dec  4 10:00:39 2020//
+/NoSuchProductKeyException.java/1.2/Fri Dec  4 10:01:35 2020//
+/NoSuchServiceLevelException.java/1.2/Fri Dec  4 10:02:22 2020//
+/NoSuchServiceTypeException.java/1.2/Fri Dec  4 10:03:37 2020//
+/NoSuchSupplierKeyException.java/1.1/Fri Dec  4 11:20:28 2020//
+/NoSuchTransactionKeyException.java/1.2/Fri Dec  4 10:05:51 2020//
+/NonUniqueClientKeyException.java/1.3/Fri Dec  4 09:57:21 2020//
+/NonUniqueProductKeyException.java/1.2/Fri Dec  4 09:59:15 2020//
+/NonUniqueSupplierKeyException.java/1.2/Fri Dec  4 09:59:58 2020//
+D

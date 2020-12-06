@@ -1,0 +1,19 @@
+D/exceptions////
+/Book.java/1.5/Fri Dec  4 15:43:24 2020//
+/Box.java/1.9/Fri Dec  4 15:43:16 2020//
+/Client.java/1.8/Fri Dec  4 17:16:54 2020//
+/ClientStatus.java/1.1/Fri Dec  4 17:28:02 2020//
+/Container.java/1.9/Fri Dec  4 09:48:49 2020//
+/DisplayElement.java/1.1/Fri Dec  4 13:56:23 2020//
+/EliteStatus.java/1.1/Fri Dec  4 17:10:51 2020//
+/NormalStatus.java/1.1/Fri Dec  4 17:10:24 2020//
+/Observable.java/1.1/Fri Dec  4 15:44:20 2020//
+/Observer.java/1.1/Fri Dec  4 13:42:18 2020//
+/Order.java/1.4/Fri Dec  4 12:47:19 2020//
+/Product.java/1.8/Fri Dec  4 13:59:47 2020//
+/Sale.java/1.6/Fri Dec  4 12:47:32 2020//
+/SelectionStatus.java/1.1/Fri Dec  4 17:10:31 2020//
+/Store.java/1.23/Fri Dec  4 13:57:29 2020//
+/Storefront.java/1.15/Fri Dec  4 11:09:48 2020//
+/Supplier.java/1.5/Fri Dec  4 09:44:54 2020//
+/Transaction.java/1.6/Fri Dec  4 12:47:06 2020//
